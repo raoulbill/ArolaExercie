@@ -1,0 +1,4 @@
+com\banque\domainServices\VerifierSolvabilite.class
+com\banque\repository\CompteBancaireRepository.class
+com\banque\restService\ServicesBancairesService.class
+com\banque\domain\CompteBancaire.class
